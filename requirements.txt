@@ -1,0 +1,8 @@
+numpy==1.26.4
+opencv-contrib-python==4.9.0.80
+mediapipe==0.10.14
+librosa==0.10.2.post1
+soundfile
+sounddevice
+pandas
+streamlit
